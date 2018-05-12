@@ -1,0 +1,45 @@
+body{
+    padding: 100px;
+    border: solid lightblue;
+    background-color: royalblue;
+    background-image: url("paper.gif");
+}
+
+h1{
+    color: rgb(18, 221, 221);
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+.row{
+    float:center;
+    
+}
+
+h2{
+    border: dashed lightblue;
+    padding: 50px;
+    height:90%;
+    width: 90px;
+    float:center;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+h3{
+    float: right;
+    border:dashed lightblue;
+    padding:30px;
+    height: 50%;
+    width: 115px;
+    text-align: left;
+}
+
+h4{
+    font-size: 40px;
+    font-family: 'Berkshire Swash', cursive;
+
+}
